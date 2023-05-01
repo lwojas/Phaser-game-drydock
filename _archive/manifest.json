@@ -1,0 +1,17 @@
+{
+    "short_name": "Space Ship Construction Corp.",
+    "name": "sscc",
+    "description": "Ship building and trading",
+    "icons": [
+        {
+            "src": "icon/launcher-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "theme_color": "#000000",
+    "background_color": "#000000"
+}
